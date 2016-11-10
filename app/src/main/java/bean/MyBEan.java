@@ -6,4 +6,5 @@ package bean;
 public class MyBEan {
 
     private String name;
+
 }
